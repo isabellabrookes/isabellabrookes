@@ -4,7 +4,7 @@
 ### Showcase
 🎵 My latest client project was [Sounds of Fusion](https://isseymiyake-soundsoffusion.com/) for Issey Miyake. 
 
-👾 I'm heavily engaged with the programming community via Twitch/Discord and **I strongly believe in promoting diversity in tech** (psst, I'm a moderator for [@PixelogicDev](https://github.com/pixelogicdev) - come say hi).
+👾 I'm heavily engaged with the programming community via Twitch/Discord and **I strongly believe in promoting diversity in tech** (psst, I'm a moderator for [@PixelogicDev](https://github.com/pixelogicdev) and [@whitep4nth3r](https://github.com/whitep4nth3r/).
 
 ### Values
 ❄️ Liberal snowflake
