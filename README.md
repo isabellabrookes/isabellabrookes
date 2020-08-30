@@ -1,16 +1,22 @@
-### Hi there 👋
+# Isabella Brookes
 
-<!--
-**isabellabrookes/isabellabrookes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋🏽 Hi, I'm Isabella (she/her) - a Software Enginer turned Platform Engineer [@WeTransfer](https://github.com/WeTransfer) - currently focusing on Developer Experience.
+I work from home in the Netherlands 🇳🇱 with my dog Koh.
 
-Here are some ideas to get you started:
+In my free time, I like to play videogames, listen to true crime podcasts and have recently discovered a fondness for kdrama.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I strongly believe in promoting diversity in tech**
+
+### Values
+
+❄️ Liberal snowflake
+
+✊🏿 Anti-racism, #blm
+
+🏳️‍🌈 LGBTQIA+
+
+👩‍💻 Feminism
+
+🧠 Destigmatising mental illnesses
+
+⬆️ Elevating the underrepresented
